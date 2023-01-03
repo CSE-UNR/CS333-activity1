@@ -1,16 +1,20 @@
 # Class Activity 1
 
 Welcome to CS 491 - Testing and DevOps! Your first assignment is outlined below:
+## Project Goals
+The goal of this project is to:
+1. Review basic Object Oriented Principles
+2. Allow students to explore using the Python programming language
 
 ## Program
 Implement a simple Car class and a Bicycle class. 
 
-## Requirements
+### Requirements
 Both classes should inherit from a Vehicle class. Create constructors for each class.  
 
-Think of a set of useful properties (color, name) for each class. Sometimes classes are composed with other classes, for example, a Car and Bike both have Wheels or a Car has an Engine. Create classes for each entity and use composition to add them to your Car or Bicycle class (you may use the same Wheel class for Cars and Bikes)  
+Consider useful properties (color, name) for each class. Sometimes classes are composed with other classes, for example, a Car and Bike both have Wheels or a Car has an Engine. Create classes for each entity and use composition to add them to your Car or Bicycle class (you may use the same Wheel class for Cars and Bikes)  
 
-Think of a set of useful methods (start(), pedal()) for each class.
+Consider useful methods (start(), pedal()) for each class.
 
 Use a main method to instantiate each class and call functions. Check in your main method if you can use polymorphism, e.g., create a Vehicle object and assign it to a Car, call a function, then assign it to a Bicycle.
 
