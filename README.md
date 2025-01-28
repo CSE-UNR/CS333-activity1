@@ -15,7 +15,7 @@ Use Vehicles to explore applying object oriented principles in Python.
 
 ## Requirements
 1. .py files for each class and the main driver which include each principles as described below
-2. a text document with you and your reflections on polymorphism and Python
+2. a text document with you and your partner's reflections on polymorphism and Python
 
 ### Encapsulation  
 - Implement a simple Car class and a Bicycle class.
